@@ -3,8 +3,6 @@ class file1{
         int x =10;
         int y =20;
 	int z = x - y;
-	System.out.println("x : "+x);
-	System.out.println("y : "+y);
-        System.out.println("Substraction of two number : "+z);
+        System.out.println("Substraction of two number x :"+x+" y : "+y+" : "+z);
     }
 }
