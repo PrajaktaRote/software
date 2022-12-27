@@ -3,8 +3,6 @@ class file{
         int x =10;
         int y =20;
 	int z = x + y;
-	System.out.println("x : "+x);
-	System.out.println("y : "+y);
         System.out.println("Addition of two number : "+z);
     }
 }
